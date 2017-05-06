@@ -1,7 +1,8 @@
 # Study-Prevalence-Of-Eczema-MRSA
 A study on prevalence of Eczema-MRSA cases (patients in the age of 0-3 years) in the state of Washington in 2009-2014
 
-Alt-H2 What is Eczema?
+What is Eczema?
+---------------
 Eczema is a term for a group of medical conditions that cause the skin to become inflamed or irritated. The most common type of eczema is known as atopic dermatitis, or atopic eczema
 
 Alt-H2 What is MRSA (A Superbug)?
